@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Placements</string>
+    <string name="title_activity_show_categories">ShowCategories</string>
+</resources>
